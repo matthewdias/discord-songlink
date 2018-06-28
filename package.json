@@ -1,0 +1,24 @@
+{
+  "name": "discord-songlink",
+  "version": "1.0.0",
+  "description": "\"Get links for multiple music services in Discord via Songlink\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewdias/discord-songlink.git"
+  },
+  "author": "matthewdias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewdias/discord-songlink/issues"
+  },
+  "homepage": "https://github.com/matthewdias/discord-songlink#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "get-urls": "^7.2.0",
+    "request": "^2.87.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "discord-songlink",
+  "description": "Get links for multiple music services in Discord via Songlink",
+  "repository": "https://github.com/matthewdias/discord-songlink",
+  "env": {
+    "CLIENT_ID": {
+      "description": "Discord bot client. Get one at https://discordapp.com/developers/applications/me/create"
+    },
+    "TOKEN": {
+      "description": "Discord bot token. Get one at https://discordapp.com/developers/applications/me/create"
+    }
+  }
+}
