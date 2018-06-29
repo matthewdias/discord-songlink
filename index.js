@@ -48,7 +48,7 @@ const transformURLs = (service, content) => {
 
 client.on('ready', () => {
   console.log('Discord client ready')
-  client.user.setActivity(`@${process.env.CLIENT_ID} for help`)
+  client.user.setActivity('@Songlink for help')
 })
 
 client.on('guildCreate', (guild) => {
